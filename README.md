@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gwendal Quimbre.
 - 👀 I’m interested in birds, bats and fish. 
-- 🌱 I’m currently learning ecology at the university of Montpellier (France)
+- 🌱 I’m currently enrolled in a master in ecology at the university of Montpellier (France)
 - 📫 How to reach me : gwendal.quimbre(at)gmail.com
 
 <!---
